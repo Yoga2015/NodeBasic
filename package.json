@@ -1,0 +1,9 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,4 @@
+老罗江湖博客园地址：https://www.cnblogs.com/KTV123/
+
+function foo1(name,age,callback){  }
+function foo2(value,callback1,callback2){  }

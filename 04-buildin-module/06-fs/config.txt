@@ -1,0 +1,10 @@
+prefix=D:\resource\nodejs\node_global
+cache=D:\resource\nodejs\node_cache
+perfix=C:\Users\walking\AppData\Roaming\npm\node_modules
+
+
+用户变量
+C:\Users\walking\AppData\Roaming\npm
+
+
+npm install nodemon -g

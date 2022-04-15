@@ -1,0 +1,4 @@
+[2022-03-29T12:13:02.704] [DEBUG] default - debug
+[2022-03-29T12:13:02.707] [ERROR] default - error
+[2022-03-29T12:13:02.707] [WARN] default - warn
+[2022-03-29T12:13:02.707] [INFO] default - info

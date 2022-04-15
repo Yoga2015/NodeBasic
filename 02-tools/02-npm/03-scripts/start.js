@@ -1,0 +1,1 @@
+console.log("start ： 是一个很重要启动的命令，运行命令无需加 run ,直接 npm start,");

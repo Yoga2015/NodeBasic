@@ -1,0 +1,8 @@
+
+[2022-03-29T11:48:54.347] [DEBUG] default - this is a debug log
+[2022-03-29T11:48:54.350] [INFO] default - this is a info log
+[2022-03-29T11:48:54.350] [WARN] default - this is a warn log
+[2022-03-29T11:48:54.350] [ERROR] default - this is a error log
+[2022-03-29T11:48:54.350] [FATAL] default - this is a fatal log
+[2022-03-29T11:50:37.202] [DEBUG] cheese - https://www.abc.com/
+[2022-03-29T11:50:37.205] [DEBUG] cheese - https://www.abc.com/b

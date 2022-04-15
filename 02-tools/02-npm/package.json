@@ -1,0 +1,27 @@
+{
+  "name": "02-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-require-jquery-global.js",
+  "scripts": {
+    "dev": "NODE_ENV=production gulp -f gulpfile.config.js",
+    "greeting": "echo hello",
+    "runjs": "node ./03-scripts/script1.js && node ./03-scripts/script2.js",
+    "start": "node ./03-scripts/start.js",
+    "test": "node ./03-scripts/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jquery": "^2.1.4"
+  },
+  "config": {
+    "env": "production"
+  }
+}
